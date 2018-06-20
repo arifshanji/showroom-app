@@ -251,8 +251,8 @@ define([
 
         if (app.config.devMode === true) {
           $('.hotSpot').css({
-            'opacity'    : '0.5',
-            'background' : 'blue'
+            'opacity'       : '0.8',
+            'background'    : 'silver'
           });
         }
 
